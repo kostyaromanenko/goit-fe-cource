@@ -1,0 +1,125 @@
+.logo-name {
+    color: 19bb9b;
+    width: 200px;
+    height: 37px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 32px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 900;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    
+    margin: 0px;
+}
+.price-name {
+    width: 55px;
+    height: 37px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 32px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 900;
+    text-align: center;
+background-color: #8c8c8c;
+display: inline-block;
+float: right;
+margin: 0px;
+    
+}
+.logo-img {
+float: left;
+display: block;
+margin-top: 37px;
+}
+.container-1{
+width: 255px;
+display: inline-block;
+float: left;
+margin-bottom: 50px;
+margin-left: 50px;
+
+}
+.container-2{
+width: 255px;
+float: left;
+margin-left: 50px;
+margin-bottom: 50px;
+}
+.nav-list__item{
+    width: 100px;
+    height: 20px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 11px;
+    color: #1abc9c;
+    font-family: "Open Sans";
+    font-weight: 700;
+    text-align: right;
+    float: right;
+    list-style-type: none;
+    margin-left: 100px;
+}
+.logo-page{
+    width: 1598px;
+    height: 83px;
+    font-size: 48px;
+    letter-spacing: -1px;
+    line-height: 32px;
+    color: #515151;
+    font-family: "Roboto";
+    font-weight: 900;
+    text-align: center;
+display: inline-block;
+float: right;
+}
+.nav-list{
+    margin-right: 350px;
+}
+.site-logo{
+margin-top: 35px;
+margin-left: 50px;
+}
+.site-news{
+    width: 300px;
+    height: 83px;
+    font-size: 48px;
+    letter-spacing: -1px;
+    line-height: 32px;
+    color: #555252;
+    font-family: "Roboto";
+    font-weight: 900;
+    text-align: center;
+margin-left: 600px;
+}
+.news-container{
+width: 350px;
+height: 250px;
+margin-left: 50px;
+margin-top: 50px;
+}
+.news-container1{
+    width: 350px;
+height: 250px;
+float: right;
+}
+.news-container2{
+    width: 350px;
+    height: 250px;
+    float: right;
+
+
+}
+.news-container3{
+     width: 350px;
+    height: 250px;
+    float: right;
+}
+.container1 a:hover{
+    color: #1abc9c;
+}
+
+
+
