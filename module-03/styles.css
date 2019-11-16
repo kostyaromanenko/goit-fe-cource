@@ -1,44 +1,44 @@
 .navigation-list{
     width: 150px;
-    height: 60px;
-    font-size: 14px;
+    height: 70px;
+    font-size: 17px;
     line-height: 24px;
     color: #03a9f4;
     font-family: "Playfair Display";
     font-weight: 400;
     text-align: center;
     display: inline-block;
-    margin-top: 100px;
-    margin-left: 250px;
-    padding: 0px;
+   margin-left: 150px;
+   margin-right: 0px;
 }
 .div-container1{
 margin-left: 150px;
-margin-right: 61px;
+margin-right: 0px;
 margin-top: 20px;
 padding-right: 100px;
 display: inline-block;
 vertical-align: middle;
 text-decoration: none;
 width: 421px;
-
+margin-bottom: 0px;
 }
 
 .div-container2{
 margin-top: 20px;
-margin-left: 100px;
+margin-left: 20px;
 padding-left: 100px;
 display: inline-block;
 vertical-align: middle;
 width: 421px;
+margin-bottom: 0px;
 }
 .page-logo{
     width: 408px;
-    height: 25px;
-    font-size: 14px;
-    color: #b4ad9e;
-    font-family: "Ubuntu";
-    font-weight: 300;
+height: 25px;
+font-size: 14px;
+color: #b4ad9e;
+font-family: "Ubuntu";
+font-weight: 300;
 }
 .page-title{
     width: 420px;
@@ -58,17 +58,18 @@ width: 421px;
     color: #626262;
     font-family: "Playfair Display";
     font-weight: 400;
+    margin-bottom: 150px;
 }
 .button-site{
 display: block;
-margin-left: 800px;
-margin-top: 50px;
+margin-left: 700px;
+margin-top: 0px;
 font-size: 20px;
 line-height: 24px;
 color: #626262;
 font-family: "Playfair Display";
 font-weight: 400;
 background-color: #ffffff;
+padding: 30px;
 }
-
 
