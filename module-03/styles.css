@@ -1,75 +1,98 @@
-.navigation-list{
-    width: 150px;
-    height: 70px;
-    font-size: 17px;
-    line-height: 24px;
-    color: #03a9f4;
-    font-family: "Playfair Display";
-    font-weight: 400;
-    text-align: center;
-    display: inline-block;
-   margin-left: 0px;
-   margin-right: 0px;
+*{
+margin: 0px;
+padding: 0px;
 }
-.div-container1{
-margin-left: 500px;
-margin-right: 0px;
-margin-top: 20px;
-padding-right: 100px;
-display: inline-block;
-vertical-align: middle;
+ul{
+list-style: none;
+}
+a{
 text-decoration: none;
-width: 421px;
-margin-bottom: 0px;
+}
+.container{
+width: 900px;
+margin: 0 auto;
+}
+.nav-item{
+display: inline-block;
+margin-right: 110px;
+font-size: 14px;
+line-height: 24px;
+font-family: "Playfair Display";
+font-weight: 400;
+text-align: center;
+margin-top: 75px;
+margin-bottom: 100px;
+
+}
+.nav-item:nth-child(4) {
+    margin-right: 0px;
+}
+.nav-link{
+    color: #777777;
+   
+    
+}
+.nav-link:hover{
+color: #03a9f3;
 }
 
-.div-container2{
-margin-top: 20px;
-margin-left: 20px;
-padding-left: 100px;
+.main-list{
+    margin-bottom: 46px;
+}
+.main-list__item{
+width: 420px;
+height: 500px;
+margin-right: 50px;
 display: inline-block;
-vertical-align: middle;
-width: 421px;
-margin-bottom: 0px;
+margin-bottom: 140px;
 }
-.page-logo{
-    width: 408px;
-height: 25px;
-font-size: 14px;
-color: #b4ad9e;
-font-family: "Ubuntu";
-font-weight: 300;
+.main-list__item:nth-child(even) {
+margin-right: 0;
 }
-.page-title{
-    width: 420px;
-    height: 45px;
-    font-size: 30px;
-    color: #626262;
-    font-family: "Playfair Display";
-    font-weight: 400;
-    margin: 0px;
-    padding: 0px;
-}
-.page-description{
-    width: 420px;
-    height: 78px;
+.article-type{
     font-size: 14px;
-    line-height: 24px;
-    color: #626262;
-    font-family: "Playfair Display";
-    font-weight: 400;
-    margin-bottom: 150px;
+    color: #b4ad9e;
+    font-family: "Ubuntu";
+    font-weight: 300;
+    margin-bottom: 30px;
+    margin-top: 32px;
+
 }
-.button-site{
+.nav-list{
+text-align: center;
+margin: 100px;
+}
+.main-btn{
+margin: 0 auto;
 display: block;
-margin-left: 500px;
-margin-top: 0px;
+width: 160px;
+height: 58px;
+background: transparent;
+border: solid #626262 1px;
 font-size: 20px;
+line-height: 24px;
+font-family: "Playfair Display";
+font-weight: 400;
+margin-top: 56px;
+margin-bottom: 71px;
+}
+.article-header{
+    margin-bottom: 35px;
+    font-size: 30px;
+color: #626262;
+font-family: "Playfair Display";
+font-weight: 400;
+}
+.main-list__item:nth-child(5) {
+    margin-bottom: 0;
+}
+.main-list__item:nth-child(6) {
+    margin-bottom: 0;
+}
+.article-text{
+font-size: 14px;
 line-height: 24px;
 color: #626262;
 font-family: "Playfair Display";
 font-weight: 400;
-background-color: #ffffff;
-padding: 30px;
 }
-
