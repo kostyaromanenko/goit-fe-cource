@@ -72,8 +72,8 @@ margin-bottom: 50px;
     font-family: "Roboto";
     font-weight: 900;
     text-align: center;
-display: inline-block;
-float: right;
+    display: inline-block;
+    float: right;
 }
 .nav-list{
     margin-right: 350px;
