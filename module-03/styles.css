@@ -83,7 +83,7 @@ transition: 1s;
     height: 85px;
     border-top-right-radius: 10px;
     border-bottom-left-radius: 10px;
-    background-image: repeating-linear-gradient(-45deg, #a3c1fa, #96b9fb 5px, #76a3f8 5px, #7ba7f8 10px);
+    background-image: repeating-linear-gradient(-45deg, #a3faaa, #99fb96 5px, #76f876 5px, #7bf885 10px);
     box-shadow: 0px 9px 20px 0px #a3c1fa;
 }
 .article-header{
