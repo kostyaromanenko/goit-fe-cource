@@ -45,7 +45,7 @@ text-decoration: none;
 .intro-section-photo{
 width: 100%;
 height: auto;
-    display: block;
+display: block;
 }
 .image-container{
    overflow: hidden;
@@ -68,7 +68,8 @@ color: #e3dcf8;
 font-size: 18px;
 padding-top: 30px;
 padding-bottom: 24px;
-
+margin-left: 24px;
+margin-right: 24px;
 }
 .intro-section_container-text::before{
     content: "";
@@ -78,4 +79,76 @@ padding-bottom: 24px;
     height: 2px;
     margin: 0 auto;
     margin-bottom: 18px;
+}
+/* _______________________________________________TABLET___________________________________________________________ */
+@media(min-width: 768px){
+    .container{
+        margin: 0 auto;
+        width: 80.7%;
+    }
+    .intro-section-text::before{
+        font-size: 90px;
+       margin-left: -48px;
+       padding-bottom: 11px;
+    }
+    .intro-section-text{
+        width: 627px;
+        font-size: 18px;
+        letter-spacing: 1px;
+        line-height: 25px;
+        color: #444444;
+        font-family: "Ubuntu";
+        font-weight: 400;  
+        margin-top: 41px;    
+    }
+.intro-section-text__bottom{
+        width: 627px;
+        font-size: 18px;
+        letter-spacing: 1px;
+        line-height: 25px;
+        color: #444444;
+        font-family: "Ubuntu";
+        font-weight: 400;
+        margin-top: 11px;
+}
+.intro-section-photo{
+    width: 100%;
+    border-radius: 5px;
+}
+.intro-section_container{
+    width: 100%;
+    border-radius: 3px;
+    height: 181px;
+}
+.intro-section_container-text{
+font-size: 20px;
+letter-spacing: 1px;
+line-height: 28px;
+color: #ffffff;
+margin-left: 77px;
+margin-bottom: 45px;
+padding-bottom: 0;
+}
+.intro-section_container-text::before{
+transform: rotate(90deg);
+margin-left: 0;
+width: 100px;
+mr
+
+
+
+}
+
+    
+     
+
+
+
+
+
+
+
+
+
+
 }
