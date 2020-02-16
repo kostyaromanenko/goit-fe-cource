@@ -14,7 +14,7 @@ text-decoration: none;
     display: block;
     margin: 0 auto;
     width: 88%;
-    height: 88%;
+
 }
 .intro-section-text{
     font-family: "Ubuntu";
@@ -144,34 +144,53 @@ margin-top: 8px;
 }
 /* ________________________________________________________________________________DESKTOP_______________________________________________________________________________ */
 @media(min-width: 1200px){
-.intro-section-text{
-width: 627px;
+.container{
+    width: 68%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+    .text-box{
+order: 2;
+width: 39%;
+}
+    .intro-section-text{
+width: 100%;
 font-size: 20px;
 letter-spacing: 1px;
 line-height: 35px;
+color: #444444;
+font-family: "Ubuntu";
+font-weight: 400;
 }
 .intro-section-text__bottom{
-    width: 627px;
+   width: 100%;
     font-size: 20px;
     letter-spacing: 1px;
     line-height: 35px;
-}
-.box{
-    display: flex;
-  width: 510px;
-  height: 230px;
+    color: #444444;
+    font-family: "Ubuntu";
+    font-weight: 400;
 }
 .image-container{
-width: 650px;
+width: 49%;
 height: 400px;
-display: flex;
+order: 1;
+margin-top: 72px;
+}
+.intro-section_container{
+    order: 3;
+}
+.intro-section_container-text{
+width: 912px;
+font-size: 25px;
+letter-spacing: 1px;
+line-height: 35px;
+color: #ffffff;
+font-family: "Ubuntu";
+font-weight: 400;
 
 }
-
-
-
-
-
 
 
 
