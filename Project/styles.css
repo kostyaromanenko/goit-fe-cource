@@ -163,7 +163,7 @@ margin-top: 8px;
     .text-box{
 order: 2;
 width: 39%;
-margin-top: 5%;
+
 }
     .intro-section-text{
         width: 100%;
@@ -189,7 +189,7 @@ height: min-content;
 width: 49%;
 height: 400px;
 order: 1;
-margin-top: 8%;
+
 }
 .intro-section_container{
     order: 3;
@@ -208,6 +208,7 @@ margin-top: 5px;
     display: flex;
     flex-direction: row;
     align-items: middle;
+    margin-top: 6%;
 }
 
 
