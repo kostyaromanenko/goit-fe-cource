@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    text-decoration: none;
+}
+/* ______________________________________________________________________TELEPHONE_____________________________________________________________________________ */
+.name-section{
+    margin-top: 50px;
+}
+.name-box{
+    width: 100%;
+  margin: 0 auto;
+  background-image: url(./img/background.jpg);
+}           
+.name-box__img{
+    width: 50%;
+    height: auto;
+    border-radius: 50px;
+    display: block;
+    margin: 0 auto;
+}    
+.name-box__name{
+   text-align: center;
+   margin-top: 10px;
+}    
+.title-box{
+    margin-top: 50px;
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 60px;
+}     
