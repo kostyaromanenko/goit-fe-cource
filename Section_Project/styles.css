@@ -18,7 +18,7 @@ ul {
     width: 88%;
     margin: 0 auto;
     background-size: cover;
-    background-image: url(./img/background.jpg);
+    background-image: url(./img/background2.jfif);
     border: 0.5px solid gray;
     box-shadow: 0px 0px 20px -3px rgba(0, 0, 0, 0.53);
     background-color: #ffffff;
@@ -138,6 +138,7 @@ ul {
 
     .name-box__img {
         margin-left: 85px;
+        
     }
 
     .title-box__text {
@@ -151,6 +152,7 @@ ul {
         padding-right: 550px;
         font-size: 55px;
     }
+    .
 }
 
 
